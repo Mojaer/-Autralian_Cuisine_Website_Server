@@ -19,7 +19,12 @@ app.get('/chefs/:id', (req, res) => {
     res.send(selectedChef)
 })
 
+app.get('/chefs/recipe/:id', (req, res) => {
 
+    const id = req.params.id
+    const chefRecipes = recipes.filter((recipe) => recipe.chef_id == id)
+    res.send(chefRecipes)
+})
 
 app.listen(port, () => {
     console.log(`the app is running at http://localhost:${port}`)
