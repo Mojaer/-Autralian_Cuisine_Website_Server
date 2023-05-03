@@ -2,7 +2,7 @@
     {
         "id": 1,
         "chef_name": "Matt Preston",
-        "chef_picture": "https://example.com/matt-preston.jpg",
+        "chef_picture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
         "years_of_experience": 20,
         "num_of_recipes": 23,
         "likes": 72,
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "chef_name": "Maggie Beer",
-        "chef_picture": "https://example.com/maggie-beer.jpg",
+        "chef_picture": "https://www.theleader.com.au/images/transform/v1/crop/frm/teCwykZsY7LPYLSSwU2GxV/2b283699-0fe1-4cc6-8038-406b91c7a936.jpg/r0_0_5000_3333_w1200_h678_fmax.jpg",
         "years_of_experience": 30,
         "num_of_recipes": 17,
         "likes": 105,
@@ -20,7 +20,7 @@
     {
         "id": 3,
         "chef_name": "Curtis Stone",
-        "chef_picture": "https://example.com/curtis-stone.jpg",
+        "chef_picture": "https://akns-images.eonline.com/eol_images/Entire_Site/202326/rs_1024x759-230306123736-1024-ecomm-curtis_stone_whats_in_my_kitchen-gj.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top",
         "years_of_experience": 25,
         "num_of_recipes": 20,
         "likes": 87,
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "chef_name": "Maeve O'Meara",
-        "chef_picture": "https://example.com/maeve-omeara.jpg",
+        "chef_picture": "https://content.api.news/v3/images/bin/44607a525f76a869ad9eec6ee11e4d77",
         "years_of_experience": 15,
         "num_of_recipes": 16,
         "likes": 50,
@@ -38,7 +38,7 @@
     {
         "id": 5,
         "chef_name": "Adam Liaw",
-        "chef_picture": "https://example.com/adam-liaw.jpg",
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtISXtBjNqCh5srfDkaablcdr12Pzqlu2TeDiThw1SS3se-lHdtC3-CEhPpzGkd1cPug&usqp=CAU",
         "years_of_experience": 10,
         "num_of_recipes": 24,
         "likes": 93,
@@ -47,7 +47,7 @@
     {
         "id": 6,
         "chef_name": "Donna Hay",
-        "chef_picture": "https://example.com/donna-hay.jpg",
+        "chef_picture": "https://i0.wp.com/tvtonight.com.au/wp-content/uploads/2016-04-18_2026.jpg?ssl=1",
         "years_of_experience": 15,
         "num_of_recipes": 22,
         "likes": 101,
