@@ -1,9 +1,9 @@
 const express = require('express')
 const app = express();
-
+var cors = require('cors');
 const port = 4000;
 
-
+app.use(cors());
 
 const chefs = require('./Resources/Chefs-Australia.json')
 const recipes = require('./Resources/recipes.json')
