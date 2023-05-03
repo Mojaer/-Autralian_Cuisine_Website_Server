@@ -1,0 +1,357 @@
+[
+    {
+        "recipe_name": "Pavlova",
+        "ingredients": [
+            "egg whites",
+            "caster sugar",
+            "cornflour",
+            "white vinegar",
+            "whipped cream",
+            "fruit"
+        ],
+        "cooking_method": "Beat egg whites and sugar, fold in cornflour and vinegar. Bake in oven, top with cream and fruit.",
+        "rating": 4.5,
+        "chef_id": 1,
+        "recipe_id": 1001,
+        "recipe_photo": "https://www.coles.com.au/content/dam/coles/inspire-create/auto-thumbnails/easiest-ever-berry-cherry-pavlova_480x288.jpg"
+    },
+    {
+        "recipe_name": "Lamingtons",
+        "ingredients": [
+            "butter",
+            "caster sugar",
+            "eggs",
+            "plain flour",
+            "baking powder",
+            "desiccated coconut",
+            "chocolate",
+            "milk"
+        ],
+        "cooking_method": "Beat butter and sugar, add eggs, fold in flour and baking powder. Bake, cut into squares and dip in chocolate and coconut.",
+        "rating": 4.2,
+        "chef_id": 1,
+        "recipe_id": 1002,
+        "recipe_photo": "https://media.istockphoto.com/id/1096814706/photo/traditional-lamington-cakes-or-dessert-for-australia-day-party.jpg?s=612x612&w=0&k=20&c=krsiMIsabEGyF9U9avKOEUfxI8oGQkxUqRx1Iz0Zw9w="
+    },
+    {
+        "recipe_name": "Sausage Rolls",
+        "ingredients": [
+            "puff pastry",
+            "sausages",
+            "bread crumbs",
+            "onion",
+            "egg"
+        ],
+        "cooking_method": "Wrap sausages in pastry, brush with egg and bake. Serve with tomato sauce.",
+        "rating": 4.0,
+        "chef_id": 1,
+        "recipe_id": 1003,
+        "recipe_photo": "https://img.taste.com.au/3Er0TPdI/w643-h428-cfill-q90/taste/2016/11/fair-dinkum-mini-sausage-rolls-87149-1.jpeg"
+    },
+    {
+        "recipe_name": "Anzac Biscuits",
+        "ingredients": [
+            "rolled oats",
+            "desiccated coconut",
+            "plain flour",
+            "brown sugar",
+            "butter",
+            "golden syrup",
+            "bicarbonate of soda",
+            "boiling water"
+        ],
+        "cooking_method": "Mix dry ingredients, melt butter and syrup. Add bicarb to boiling water and mix into dry ingredients. Bake in oven.",
+        "rating": 4.3,
+        "chef_id": 1,
+        "recipe_id": 1004,
+        "recipe_photo": "https://media.istockphoto.com/id/1247359915/photo/anzac-biscuits-cooling-on-rack.jpg?s=170667a&w=is&k=20&c=qnFqhzXW8rxWW_xwXJpS0fCQF8woVSQ4EkCrRhs1o9c="
+    },
+    {
+        "recipe_name": "Aussie Burger",
+        "ingredients": [
+            "beef patty",
+            "cheese",
+            "bacon",
+            "lettuce",
+            "tomato",
+            "beetroot",
+            "onion",
+            "sauce",
+            "bun"
+        ],
+        "cooking_method": "Cook patty, bacon and onion. Assemble with cheese, lettuce, tomato, beetroot and sauce.",
+        "rating": 4.5,
+        "chef_id": 2,
+        "recipe_id": 2001,
+        "recipe_photo": "https://www.hungryjacks.com.au/Upload/HJ/Media/Real%20Food/Keeping%20It%20Real/product_image_WYW_Cheese_1.jpg"
+    },
+    {
+        "recipe_name": "Lamb Chops",
+        "ingredients": [
+            "lamb chops",
+            "olive oil",
+            "rosemary",
+            "garlic",
+            "lemon"
+        ],
+        "cooking_method": "Season chops, cook in pan with oil, rosemary and garlic. Squeeze lemon over before serving.",
+        "rating": 4.2,
+        "chef_id": 2,
+        "recipe_id": 2002,
+        "recipe_photo": "https://www.recipezazz.com/media/photos/photos/7/2/3/5/4/aussie-lamb-chops-with-rosemary-and-thyme-72354_720x450_857a85e4.jpg"
+    },
+    {
+        "recipe_name": "Tim Tam Cheesecake",
+        "ingredients": [
+            "Tim Tam biscuits",
+            "cream cheese",
+            "sugar",
+            "eggs",
+            "whipping cream",
+            "vanilla extract"
+        ],
+        "cooking_method": "Mix biscuits and cream cheese, add sugar, eggs, cream and vanilla. Bake in oven, chill before serving.",
+        "rating": 4.8,
+        "chef_id": 2,
+        "recipe_id": 2003,
+        "recipe_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQupNTA2UjkxTD-hqE6wZyzC3QQXks7sl7cOw&usqp=CAU"
+    },
+    {
+        "recipe_name": "Fish and Chips",
+        "ingredients": [
+            "fish fillets",
+            "potatoes",
+            "flour",
+            "baking powder",
+            "beer",
+            "oil",
+            "lemon",
+            "salt",
+            "pepper"
+        ],
+        "cooking_method": "Cut potatoes into chips, coat fish in flour and beer batter. Fry in oil, season with salt and pepper. Serve with lemon.",
+        "rating": 4.0,
+        "chef_id": 2,
+        "recipe_id": 2004,
+        "recipe_photo": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/4/16/1397636434166/5d4ff7b4-c307-4d32-a694-6319b7a48873-2060x1236.jpeg?width=700&quality=85&auto=format&fit=max&s=0407441d3c9fb120ec107f3ee27fc069"
+    },
+    {
+        "recipe_name": "Pavlova",
+        "ingredients": [
+            "egg whites",
+            "sugar",
+            "cornflour",
+            "white vinegar",
+            "whipping cream",
+            "fruit"
+        ],
+        "cooking_method": "Beat egg whites, gradually add sugar and other ingredients. Bake in oven, top with whipped cream and fruit.",
+        "rating": 4.6,
+        "chef_id": 3,
+        "recipe_id": 3001,
+        "recipe_photo": "https://www.coles.com.au/content/dam/coles/inspire-create/auto-thumbnails/easiest-ever-berry-cherry-pavlova_480x288.jpg"
+    },
+    {
+        "recipe_name": "Kangaroo Steak",
+        "ingredients": [
+            "kangaroo steak",
+            "olive oil",
+            "thyme",
+            "garlic",
+            "butter",
+            "lemon",
+            "salt",
+            "pepper"
+        ],
+        "cooking_method": "Season steak, cook in pan with oil, thyme and garlic. Finish with butter and lemon, season with salt and pepper.",
+        "rating": 4.4,
+        "chef_id": 3,
+        "recipe_id": 3002,
+        "recipe_photo": "https://thumbs.dreamstime.com/b/meat-steak-green-pesto-kangaroo-pomegranate-wooden-cutting-board-helthy-holiday-food-concept-selective-focus-102679837.jpg"
+    },
+    {
+        "recipe_name": "Lamingtons",
+        "ingredients": [
+            "butter",
+            "sugar",
+            "eggs",
+            "flour",
+            "baking powder",
+            "milk",
+            "chocolate",
+            "desiccated coconut"
+        ],
+        "cooking_method": "Cream butter and sugar, add eggs, flour, baking powder and milk. Bake in oven, dip in melted chocolate and coat with coconut.",
+        "rating": 4.8,
+        "chef_id": 3,
+        "recipe_id": 3003,
+        "recipe_photo": "https://media.istockphoto.com/id/1096814706/photo/traditional-lamington-cakes-or-dessert-for-australia-day-party.jpg?s=612x612&w=0&k=20&c=krsiMIsabEGyF9U9avKOEUfxI8oGQkxUqRx1Iz0Zw9w="
+    },
+    {
+        "recipe_name": "Meat Pie",
+        "ingredients": [
+            "beef mince",
+            "onion",
+            "carrot",
+            "potato",
+            "beef stock",
+            "Worcestershire sauce",
+            "pastry",
+            "egg"
+        ],
+        "cooking_method": "Brown beef, onion and carrot. Add stock and sauce, simmer. Add potatoes, cook until tender. Line pie dish with pastry, add filling, cover with pastry, brush with egg. Bake in oven.",
+        "rating": 4.3,
+        "chef_id": 4,
+        "recipe_id": 4001,
+        "recipe_photo": "https://i.imgur.com/cuX7X0C.jpg"
+    },
+    {
+        "recipe_name": "Chicken Parmigiana",
+        "ingredients": [
+            "chicken breast",
+            "flour",
+            "egg",
+            "breadcrumbs",
+            "tomato sauce",
+            "mozzarella cheese",
+            "parmesan cheese",
+            "oil",
+            "salt",
+            "pepper"
+        ],
+        "cooking_method": "Coat chicken in flour, egg and breadcrumbs. Fry in oil, top with tomato sauce, mozzarella and parmesan cheese. Bake in oven, season with salt and pepper.",
+        "rating": 4.6,
+        "chef_id": 4,
+        "recipe_id": 4002,
+        "recipe_photo": "https://i.imgur.com/s4xO4U6.jpg"
+    },
+    {
+        "recipe_name": "Sausage Roll",
+        "ingredients": [
+            "beef mince",
+            "sausage meat",
+            "onion",
+            "garlic",
+            "bread crumbs",
+            "puff pastry",
+            "egg"
+        ],
+        "cooking_method": "Mix beef, sausage meat, onion, garlic and breadcrumbs. Roll out pastry, add filling, brush with egg. Bake in oven.",
+        "rating": 4.2,
+        "chef_id": 4,
+        "recipe_id": 4003,
+        "recipe_photo": "https://i.imgur.com/cNcdj5p.jpg"
+    },
+    {
+        "recipe_name": "ANZAC Biscuits",
+        "ingredients": [
+            "rolled oats",
+            "flour",
+            "sugar",
+            "coconut",
+            "butter",
+            "golden syrup",
+            "baking soda",
+            "boiling water"
+        ],
+        "cooking_method": "Mix oats, flour, sugar and coconut. Melt butter and syrup, add baking soda and water. Add to dry ingredients, mix. Roll into balls, bake in oven.",
+        "rating": 4.7,
+        "chef_id": 4,
+        "recipe_id": 4004,
+        "recipe_photo": "https://media.istockphoto.com/id/1247359915/photo/anzac-biscuits-cooling-on-rack.jpg?s=170667a&w=is&k=20&c=qnFqhzXW8rxWW_xwXJpS0fCQF8woVSQ4EkCrRhs1o9c="
+    },
+    {
+        "recipe_name": "Fish and Chips",
+        "ingredients": [
+            "white fish",
+            "potatoes",
+            "flour",
+            "baking powder",
+            "beer",
+            "oil",
+            "salt",
+            "pepper"
+        ],
+        "cooking_method": "Cut potatoes into chips, fry. Mix flour, baking powder, salt and pepper. Add beer, dip fish in batter, fry. Serve with chips and tartar sauce.",
+        "rating": 4.5,
+        "chef_id": 5,
+        "recipe_id": 5001,
+        "recipe_photo": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/4/16/1397636434166/5d4ff7b4-c307-4d32-a694-6319b7a48873-2060x1236.jpeg?width=700&quality=85&auto=format&fit=max&s=0407441d3c9fb120ec107f3ee27fc069"
+    },
+    {
+        "recipe_name": "Pavlova",
+        "ingredients": [
+            "egg whites",
+            "sugar",
+            "cornstarch",
+            "vinegar",
+            "whipped cream",
+            "fruit"
+        ],
+        "cooking_method": "Whisk egg whites, add sugar, cornstarch and vinegar. Bake in oven. Cool, top with whipped cream and fruit.",
+        "rating": 4.8,
+        "chef_id": 5,
+        "recipe_id": 5002,
+        "recipe_photo": "https://www.coles.com.au/content/dam/coles/inspire-create/auto-thumbnails/easiest-ever-berry-cherry-pavlova_480x288.jpg"
+    },
+    {
+        "recipe_name": "Lamingtons",
+        "ingredients": [
+            "sponge cake",
+            "chocolate icing",
+            "desiccated coconut"
+        ],
+        "cooking_method": "Cut cake into squares. Mix icing and coconut. Dip cake in icing, roll in coconut. Allow to set.",
+        "rating": 4.3,
+        "chef_id": 5,
+        "recipe_id": 5003,
+        "recipe_photo": "https://media.istockphoto.com/id/1096814706/photo/traditional-lamington-cakes-or-dessert-for-australia-day-party.jpg?s=612x612&w=0&k=20&c=krsiMIsabEGyF9U9avKOEUfxI8oGQkxUqRx1Iz0Zw9w="
+    },
+    {
+        "recipe_name": "Grilled Kangaroo Steaks",
+        "ingredients": [
+            "kangaroo steaks",
+            "olive oil",
+            "salt",
+            "pepper"
+        ],
+        "cooking_method": "Brush steaks with oil, season with salt and pepper. Grill on high heat until medium rare. Let rest before serving.",
+        "rating": 4.7,
+        "chef_id": 6,
+        "recipe_id": 6001,
+        "recipe_photo": "https://thumbs.dreamstime.com/b/meat-steak-green-pesto-kangaroo-pomegranate-wooden-cutting-board-helthy-holiday-food-concept-selective-focus-102679837.jpg"
+    },
+    {
+        "recipe_name": "Barramundi with Lemon Butter Sauce",
+        "ingredients": [
+            "barramundi fillets",
+            "butter",
+            "lemon juice",
+            "garlic",
+            "salt",
+            "pepper"
+        ],
+        "cooking_method": "Season barramundi with salt and pepper. Melt butter in pan, add garlic and lemon juice. Cook fish in pan until golden brown. Drizzle with sauce and serve.",
+        "rating": 4.9,
+        "chef_id": 6,
+        "recipe_id": 6002,
+        "recipe_photo": "https://blog.goodpairdays.com/content/images/2017/06/Depositphotos_154952488_original--1-.jpg"
+    },
+    {
+        "recipe_name": "Anzac Biscuits",
+        "ingredients": [
+            "rolled oats",
+            "plain flour",
+            "sugar",
+            "desiccated coconut",
+            "butter",
+            "golden syrup",
+            "baking soda"
+        ],
+        "cooking_method": "Mix dry ingredients. Melt butter and syrup, add baking soda. Mix dry and wet ingredients, spoon onto tray. Bake until golden brown.",
+        "rating": 4.4,
+        "chef_id": 6,
+        "recipe_id": 6003,
+        "recipe_photo": "https://media.istockphoto.com/id/1247359915/photo/anzac-biscuits-cooling-on-rack.jpg?s=170667a&w=is&k=20&c=qnFqhzXW8rxWW_xwXJpS0fCQF8woVSQ4EkCrRhs1o9c="
+    }
+]

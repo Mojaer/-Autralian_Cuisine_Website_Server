@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "chef_name": "Matt Preston",
+        "chef_picture": "https://example.com/matt-preston.jpg",
+        "years_of_experience": 20,
+        "num_of_recipes": 23,
+        "likes": 72,
+        "short_bio": "Matt Preston is an award-winning food journalist, author, and television personality. He is best known for his role as a judge on the Australian cooking competition show MasterChef Australia."
+    },
+    {
+        "id": 2,
+        "chef_name": "Maggie Beer",
+        "chef_picture": "https://example.com/maggie-beer.jpg",
+        "years_of_experience": 30,
+        "num_of_recipes": 17,
+        "likes": 105,
+        "short_bio": "Maggie Beer is an Australian chef, restaurateur, and author. She is known for her love of traditional cooking techniques and her use of fresh, seasonal ingredients."
+    },
+    {
+        "id": 3,
+        "chef_name": "Curtis Stone",
+        "chef_picture": "https://example.com/curtis-stone.jpg",
+        "years_of_experience": 25,
+        "num_of_recipes": 20,
+        "likes": 87,
+        "short_bio": "Curtis Stone is an Australian celebrity chef, author, and television personality. He is known for his passion for farm-to-table cooking and his innovative flavor combinations."
+    },
+    {
+        "id": 4,
+        "chef_name": "Maeve O'Meara",
+        "chef_picture": "https://example.com/maeve-omeara.jpg",
+        "years_of_experience": 15,
+        "num_of_recipes": 16,
+        "likes": 50,
+        "short_bio": "Maeve O'Meara is an Australian television presenter, author, and food lover. She is best known for her work as the host and producer of the food and travel series Food Safari."
+    },
+    {
+        "id": 5,
+        "chef_name": "Adam Liaw",
+        "chef_picture": "https://example.com/adam-liaw.jpg",
+        "years_of_experience": 10,
+        "num_of_recipes": 24,
+        "likes": 93,
+        "short_bio": "Adam Liaw is an Australian chef, television presenter, and author. He is best known for winning the second season of MasterChef Australia and his subsequent work as a television host and cookbook author."
+    },
+    {
+        "id": 6,
+        "chef_name": "Donna Hay",
+        "chef_picture": "https://example.com/donna-hay.jpg",
+        "years_of_experience": 15,
+        "num_of_recipes": 22,
+        "likes": 101,
+        "short_bio": "Donna Hay is an Australian food stylist, author, and magazine editor. She is known for her simple and modern approach to cooking and has published numerous cookbooks."
+    }
+]
